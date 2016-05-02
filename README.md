@@ -1,2 +1,4 @@
 # hello-world
-Learning Git
+Learning Git: Hellow peeps. I am learning Git.
+
+Ciao!
